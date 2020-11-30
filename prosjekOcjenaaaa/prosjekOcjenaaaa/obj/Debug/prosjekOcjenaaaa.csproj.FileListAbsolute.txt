@@ -1,0 +1,10 @@
+C:\Users\Učenik 5\source\repos\prosjekOcjenaaaa\prosjekOcjenaaaa\bin\Debug\prosjekOcjenaaaa.exe.config
+C:\Users\Učenik 5\source\repos\prosjekOcjenaaaa\prosjekOcjenaaaa\bin\Debug\prosjekOcjenaaaa.exe
+C:\Users\Učenik 5\source\repos\prosjekOcjenaaaa\prosjekOcjenaaaa\bin\Debug\prosjekOcjenaaaa.pdb
+C:\Users\Učenik 5\source\repos\prosjekOcjenaaaa\prosjekOcjenaaaa\obj\Debug\prosjekOcjenaaaa.csprojAssemblyReference.cache
+C:\Users\Učenik 5\source\repos\prosjekOcjenaaaa\prosjekOcjenaaaa\obj\Debug\prosjekOcjenaaaa.Form1.resources
+C:\Users\Učenik 5\source\repos\prosjekOcjenaaaa\prosjekOcjenaaaa\obj\Debug\prosjekOcjenaaaa.Properties.Resources.resources
+C:\Users\Učenik 5\source\repos\prosjekOcjenaaaa\prosjekOcjenaaaa\obj\Debug\prosjekOcjenaaaa.csproj.GenerateResource.cache
+C:\Users\Učenik 5\source\repos\prosjekOcjenaaaa\prosjekOcjenaaaa\obj\Debug\prosjekOcjenaaaa.csproj.CoreCompileInputs.cache
+C:\Users\Učenik 5\source\repos\prosjekOcjenaaaa\prosjekOcjenaaaa\obj\Debug\prosjekOcjenaaaa.exe
+C:\Users\Učenik 5\source\repos\prosjekOcjenaaaa\prosjekOcjenaaaa\obj\Debug\prosjekOcjenaaaa.pdb
